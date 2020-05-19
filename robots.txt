@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://seanmiller.com/sitemap.xml
+Host: https://seanmiller.com
