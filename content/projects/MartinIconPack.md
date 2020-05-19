@@ -1,7 +1,7 @@
 ---
 date: '2017-01-29'
 title: 'Martin Icon Pack'
-android: 'https://play.google.com/store/apps/details?id=com.bedefined.martiniconpack&hl=en'
+external: 'https://play.google.com/store/apps/details?id=com.bedefined.martiniconpack&hl=en'
 tech:
   - Android Studio
   - Adobe Illustrator

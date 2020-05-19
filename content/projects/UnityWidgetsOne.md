@@ -1,7 +1,7 @@
 ---
 date: '2017-01-03'
 title: 'Unity Widgets 1'
-android: 'https://play.google.com/store/apps/details?id=com.bedefined.unitywidgets&hl=en'
+external: 'https://play.google.com/store/apps/details?id=com.bedefined.unitywidgets&hl=en'
 tech:
   - Android Studio
   - Zooper

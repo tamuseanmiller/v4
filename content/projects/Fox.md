@@ -1,8 +1,7 @@
 ---
 date: '2016-12-29'
 title: 'Fox For Zooper'
-android: 'https://play.google.com/store/apps/details?id=com.bedefined.foxforzooper&hl=en'
-external: ''
+external: 'https://play.google.com/store/apps/details?id=com.bedefined.foxforzooper&hl=en'
 tech:
   - Android Studio
   - Zooper

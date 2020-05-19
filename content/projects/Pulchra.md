@@ -1,7 +1,7 @@
 ---
 date: '2017-12-01'
 title: 'Pulchra Icons and Widgets'
-android: 'https://play.google.com/store/apps/details?id=com.bedefined.pulchraicons&hl=en'
+external: 'https://play.google.com/store/apps/details?id=com.bedefined.pulchraicons&hl=en'
 tech:
   - Android Studio
   - Zooper

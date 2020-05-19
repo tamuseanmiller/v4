@@ -1,7 +1,7 @@
 ---
 date: '2016-05-19'
 title: 'mnmlUI for Zooper'
-android: 'https://play.google.com/store/apps/details?id=com.bedefined.mnmlui&hl=en'
+external: 'https://play.google.com/store/apps/details?id=com.bedefined.mnmlui&hl=en'
 tech:
   - Android Studio
   - Zooper
