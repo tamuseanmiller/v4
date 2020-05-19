@@ -2,6 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
+    pathPrefix: '/v4',
     title: config.siteTitle,
     siteUrl: config.siteUrl,
     description: config.siteDescription,
