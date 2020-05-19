@@ -3,6 +3,7 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "homepage": "https://tamuseanmiller.github.io/v4/",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
@@ -17,7 +18,9 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "husky": {
     "hooks": {
