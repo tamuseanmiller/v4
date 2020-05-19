@@ -25,10 +25,12 @@ const StyledLogo = styled.div`
   transition: ${theme.transition};
   opacity: ${props => (props.isMounted ? 1 : 0)};
   svg {
-    width: 100%;
-    height: 100%;
+    width: 200%;
+    height: 200%;
+    position: relative;
+    left: -50%;
     display: block;
-    margin: 0 auto;
+    margin: auto;
     fill: none;
     user-select: none;
     #B {

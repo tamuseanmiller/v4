@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+title: 'Howdy! My name is'
+name: 'Sean Miller'
+subtitle: 'I am a software engineer'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I am currently pursuing a major in Computer Science with a minor in Cybersecurity at Texas A&M University.

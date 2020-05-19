@@ -11,3 +11,7 @@ showInProjects: false
 ---
 
 A commissioned project, where I created the application for a widget designer. Same designer from mnml UI.
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

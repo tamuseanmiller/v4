@@ -1,38 +1,41 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Sean Miller | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Sean Miller is a software engineer based in Austin, TX who specializes in building high functionality applications and backends.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'sean miller, c++, backend, java, python, software engineer, computer science',
+  siteUrl: 'https://seanmiller.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  name: 'Sean Miller',
+  location: 'Austin, TX',
+  email: 'sean@millerfamily.tech',
+  github: 'https://github.com/tamuseanmiller',
+  twitterHandle: '@beastosean',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/tamuseanmiller',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/sean-miller-0a057b182/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'PlayStore',
+      url:
+        'https://play.google.com/store/apps/dev?id=5481397734462305141&hl=en',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url:
+        'https://www.instagram.com/be_defined',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url:
+        'https://twitter.com/beastosean',
     },
   ],
 
@@ -55,20 +58,25 @@ module.exports = {
     },
   ],
 
-  navHeight: 100,
+  navHeight:
+    100,
 
-  colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
-  },
+  colors:
+    {
+      green: '#64ffda',
+      navy:
+        '#0a192f',
+      darkNavy:
+        '#020c1b',
+    }
+  ,
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
     distance: '20px',
     duration: 500,
     delay,
-    rotate: { x: 0, y: 0, z: 0 },
+    rotate: {x: 0, y: 0, z: 0},
     opacity: 0,
     scale: 1,
     easing: 'cubic-bezier(0.645, 0.045, 0.355, 1)',
@@ -76,6 +84,7 @@ module.exports = {
     reset: false,
     useDelay: 'always',
     viewFactor: 0.25,
-    viewOffset: { top: 0, right: 0, bottom: 0, left: 0 },
+    viewOffset: {top: 0, right: 0, bottom: 0, left: 0},
   }),
-};
+}
+;
